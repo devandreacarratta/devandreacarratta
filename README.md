@@ -31,5 +31,7 @@ down on unnecessary risks and expenses.
 
 - [Linkedin](https://links.devandreacarratta.it/linkedin)
 - [YouTube](https://links.devandreacarratta.it/youtube)
-- [Home - EN](https://devandreacarratta.it/en/andrea-carratta-developer-english/)
-- [Home - IT](https://devandreacarratta.it/)
+- [WebSite - EN](https://devandreacarratta.it/en/andrea-carratta-developer-english/?utm_source=github&utm_medium=readme&utm_campaign=profile&utm_content=home-en)
+- [WebSite - IT](https://devandreacarratta.it/?utm_source=github&utm_medium=readme&utm_campaign=profile&utm_content=home)
+- [CloudNinja - EN](https://cloudninja.it/en/?utm_source=github&utm_medium=readme&utm_campaign=profile&utm_content=home-en)
+- [CloudNinja - IT](https://cloudninja.it/?utm_source=github&utm_medium=readme&utm_campaign=profile&utm_content=home)
