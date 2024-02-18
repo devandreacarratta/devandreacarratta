@@ -3,7 +3,7 @@
 
 ## Andrea Carratta
 
-With over twenty years of experience, my expertise spans from **design to the realization of complex solutions.** Just like tackling a puzzle such as the Megaminx, programming and cloud architecture present intricate challenges that require a robust strategy and a precise methodology.
+With over twenty years of experience, my expertise spans from **design to the realization of complex solutions.** Just like tackling a puzzle such as the Rubik Cube, programming and cloud architecture present intricate challenges that require a robust strategy and a precise methodology.
 
 I assist companies in optimizing their IT architecture, guiding them through the complexities of the technological landscape, pinpointing scalable solutions, and implementing strategies based on the industry's best practices. **This approach not only ensures efficiency and resilience but also a significant reduction in operational costs.**
 
