@@ -1,0 +1,37 @@
+name: Update latest posts
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Latest posts EN (site + blog, merged by date)
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://devandreacarratta.it/feed-en.xml,https://blog.devandreacarratta.it/feed-en.xml"
+          comment_tag_name: "POSTS-EN"
+          feed_names: "Website,Blog"
+          max_post_count: 6
+          template: '$newline<tr><td>$date</td><td><a href="$url">$title</a></td><td>$feedName</td></tr>'
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest EN posts"
+
+      - name: Latest posts IT (site + blog, merged by date)
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://devandreacarratta.it/feed-it.xml,https://blog.devandreacarratta.it/feed-it.xml"
+          comment_tag_name: "POSTS-IT"
+          feed_names: "Website,Blog"
+          max_post_count: 5
+          template: '$newline<tr><td>$date</td><td><a href="$url">$title</a></td><td>$feedName</td></tr>'
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest IT posts"
