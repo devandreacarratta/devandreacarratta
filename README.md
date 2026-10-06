@@ -47,7 +47,12 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-EN:START -->
-<!-- POSTS-EN:END -->
+<tr><td>2026-10-02</td><td><a href="https://devandreacarratta.it/en/technical-stories/aws-lambda-to-ec2-nightly-import/">From AWS Lambda to EC2: The Choice That Was Right Until It Wasn&#39;t</a></td><td>Website</td></tr>
+<tr><td>2026-09-21</td><td><a href="https://devandreacarratta.it/en/technical-stories/how-i-built-my-first-ruby-gem-with-kiro/">How I built my first Ruby Gem with Kiro</a></td><td>Website</td></tr>
+<tr><td>2026-09-14</td><td><a href="https://devandreacarratta.it/en/coding-zone/using-password-forge/">Using PasswordForge: a Practical Guide</a></td><td>Website</td></tr>
+<tr><td>2026-09-09</td><td><a href="https://devandreacarratta.it/en/technical-stories/how-i-almost-destroyed-a-production-ec2-with-terraform/">How I almost destroyed a production EC2 with Terraform</a></td><td>Website</td></tr>
+<tr><td>2026-08-17</td><td><a href="https://blog.devandreacarratta.it/en/aws-route53-domain-registration/">AWS Route 53: How to Register a Domain</a></td><td>Blog</td></tr>
+<tr><td>2026-06-13</td><td><a href="https://devandreacarratta.it/en/projects/aws-amplify-staging-branch-preview-terraform/">AWS Amplify: Automatic Branch Previews and Staging with Terraform</a></td><td>Website</td></tr><!-- POSTS-EN:END -->
 </table>
 
 <details>
