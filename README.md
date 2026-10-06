@@ -61,7 +61,11 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-IT:START -->
-<!-- POSTS-IT:END -->
+<tr><td>2026-10-05</td><td><a href="https://devandreacarratta.it/technical-stories/serverless-o-ec2-perche-ho-scelto-ec2/">Serverless non è sempre la risposta: perché questa volta ho scelto EC2</a></td><td>Website</td></tr>
+<tr><td>2026-09-25</td><td><a href="https://devandreacarratta.it/behind-the-code/git-branch-feature-qualita-software/">Git branch: perché creare un branch per ogni feature migliora la qualità del software</a></td><td>Website</td></tr>
+<tr><td>2026-09-17</td><td><a href="https://devandreacarratta.it/prodotto-software-pronto-a-crescere/">Creare un prodotto è diventato più facile. Farlo crescere, è un altro paio di maniche</a></td><td>Website</td></tr>
+<tr><td>2026-09-01</td><td><a href="https://devandreacarratta.it/comportamenti-emergenti-sistemi-distribuiti/">Comportamenti emergenti nei sistemi distribuiti: la lezione di una playlist Spotify</a></td><td>Website</td></tr>
+<tr><td>2026-08-24</td><td><a href="https://devandreacarratta.it/burnout-sviluppo-software/">Burnout nello sviluppo software: il problema inizia molto prima di quanto immagini</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
 </table>
 
 </details>
