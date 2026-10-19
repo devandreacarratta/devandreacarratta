@@ -61,11 +61,11 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-IT:START -->
+<tr><td>2026-10-13</td><td><a href="https://devandreacarratta.it/behind-the-code/vibe-coding-prodotto-ai-senza-saper-programmare/">Vibe coding: hai costruito un prodotto con l&#39;AI senza saper programmare?</a></td><td>Website</td></tr>
+<tr><td>2026-10-13</td><td><a href="https://devandreacarratta.it/behind-the-code/vibe-coding-prodotto-ai-senza-saper-programmare/">Vibe coding: hai costruito un prodotto con l&#39;AI senza saper programmare?</a></td><td>Blog</td></tr>
 <tr><td>2026-10-11</td><td><a href="https://devandreacarratta.it/coding-zone/aws-default-region-cli/">AWS CLI: come visualizzare e cambiare la regione predefinita</a></td><td>Website</td></tr>
-<tr><td>2026-10-05</td><td><a href="https://devandreacarratta.it/technical-stories/serverless-o-ec2-perche-ho-scelto-ec2/">Serverless non è sempre la risposta: perché questa volta ho scelto EC2</a></td><td>Website</td></tr>
-<tr><td>2026-09-25</td><td><a href="https://devandreacarratta.it/behind-the-code/git-branch-feature-qualita-software/">Git branch: perché creare un branch per ogni feature migliora la qualità del software</a></td><td>Website</td></tr>
-<tr><td>2026-09-17</td><td><a href="https://devandreacarratta.it/prodotto-software-pronto-a-crescere/">Creare un prodotto è diventato più facile. Farlo crescere, è un altro paio di maniche</a></td><td>Website</td></tr>
-<tr><td>2026-09-01</td><td><a href="https://devandreacarratta.it/comportamenti-emergenti-sistemi-distribuiti/">Comportamenti emergenti nei sistemi distribuiti: la lezione di una playlist Spotify</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
+<tr><td>2026-10-11</td><td><a href="https://devandreacarratta.it/coding-zone/aws-default-region-cli/">AWS CLI: come visualizzare e cambiare la regione predefinita</a></td><td>Blog</td></tr>
+<tr><td>2026-10-05</td><td><a href="https://devandreacarratta.it/technical-stories/serverless-o-ec2-perche-ho-scelto-ec2/">Serverless non è sempre la risposta: perché questa volta ho scelto EC2</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
 </table>
 
 </details>
