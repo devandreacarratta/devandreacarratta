@@ -47,12 +47,12 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-EN:START -->
+<tr><td>2026-10-24</td><td><a href="https://devandreacarratta.it/en/behind-the-code/bug-could-not-solve-at-my-desk-running/">The bug I couldn&#39;t solve at my desk</a></td><td>Website</td></tr>
+<tr><td>2026-10-24</td><td><a href="https://devandreacarratta.it/en/behind-the-code/bug-could-not-solve-at-my-desk-running/">The bug I couldn&#39;t solve at my desk</a></td><td>Blog</td></tr>
 <tr><td>2026-10-17</td><td><a href="https://devandreacarratta.it/en/technical-stories/terraform-state-lock-good-thing/">Terraform state lock: refusing to continue was probably a good thing</a></td><td>Website</td></tr>
 <tr><td>2026-10-17</td><td><a href="https://devandreacarratta.it/en/technical-stories/terraform-state-lock-good-thing/">Terraform state lock: refusing to continue was probably a good thing</a></td><td>Blog</td></tr>
 <tr><td>2026-10-09</td><td><a href="https://devandreacarratta.it/en/technical-stories/worker-service-right-code-wrong-place/">.NET Worker Service: the code was right, the place was wrong</a></td><td>Website</td></tr>
-<tr><td>2026-10-09</td><td><a href="https://devandreacarratta.it/en/technical-stories/worker-service-right-code-wrong-place/">.NET Worker Service: the code was right, the place was wrong</a></td><td>Blog</td></tr>
-<tr><td>2026-10-02</td><td><a href="https://devandreacarratta.it/en/technical-stories/aws-lambda-to-ec2-nightly-import/">From AWS Lambda to EC2: the choice that was right until it wasn&#39;t</a></td><td>Website</td></tr>
-<tr><td>2026-10-02</td><td><a href="https://devandreacarratta.it/en/technical-stories/aws-lambda-to-ec2-nightly-import/">From AWS Lambda to EC2: the choice that was right until it wasn&#39;t</a></td><td>Blog</td></tr><!-- POSTS-EN:END -->
+<tr><td>2026-10-09</td><td><a href="https://devandreacarratta.it/en/technical-stories/worker-service-right-code-wrong-place/">.NET Worker Service: the code was right, the place was wrong</a></td><td>Blog</td></tr><!-- POSTS-EN:END -->
 </table>
 
 <details>
