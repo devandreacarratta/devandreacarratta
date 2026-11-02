@@ -61,11 +61,11 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-IT:START -->
-<tr><td>2026-10-21</td><td><a href="https://devandreacarratta.it/case-studies/app-full-stack-aws-ec2-12-euro-mese/">Case study: come ho realizzato un&#39;app full-stack su una singola AWS EC2 con meno di 12€ al mese</a></td><td>Website</td></tr>
-<tr><td>2026-10-21</td><td><a href="https://devandreacarratta.it/case-studies/app-full-stack-aws-ec2-12-euro-mese/">Case study: come ho realizzato un&#39;app full-stack su una singola AWS EC2 con meno di 12€ al mese</a></td><td>Blog</td></tr>
-<tr><td>2026-10-13</td><td><a href="https://devandreacarratta.it/behind-the-code/vibe-coding-prodotto-ai-senza-saper-programmare/">Vibe coding: hai costruito un prodotto con l&#39;AI senza saper programmare?</a></td><td>Website</td></tr>
-<tr><td>2026-10-13</td><td><a href="https://devandreacarratta.it/behind-the-code/vibe-coding-prodotto-ai-senza-saper-programmare/">Vibe coding: hai costruito un prodotto con l&#39;AI senza saper programmare?</a></td><td>Blog</td></tr>
-<tr><td>2026-10-11</td><td><a href="https://devandreacarratta.it/coding-zone/aws-default-region-cli/">AWS CLI: come visualizzare e cambiare la regione predefinita</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
+<tr><td>2026-10-30</td><td><a href="https://devandreacarratta.it/technical-stories/terraform-destroy-senza-codice-solo-state/">Ho perso il codice Terraform: come ho distrutto un progetto AWS partendo solo dallo state</a></td><td>Website</td></tr>
+<tr><td>2026-10-30</td><td><a href="https://devandreacarratta.it/technical-stories/terraform-destroy-senza-codice-solo-state/">Ho perso il codice Terraform: come ho distrutto un progetto AWS partendo solo dallo state</a></td><td>Blog</td></tr>
+<tr><td>2026-10-27</td><td><a href="https://devandreacarratta.it/business-time/costo-consulente-software-esperienza-prezzo/">Costo consulente software: andresti mai dal dottore di Homer Simpson?</a></td><td>Website</td></tr>
+<tr><td>2026-10-27</td><td><a href="https://devandreacarratta.it/business-time/costo-consulente-software-esperienza-prezzo/">Costo consulente software: andresti mai dal dottore di Homer Simpson?</a></td><td>Blog</td></tr>
+<tr><td>2026-10-21</td><td><a href="https://devandreacarratta.it/case-studies/app-full-stack-aws-ec2-12-euro-mese/">Case study: come ho realizzato un&#39;app full-stack su una singola AWS EC2 con meno di 12€ al mese</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
 </table>
 
 </details>
