@@ -61,11 +61,11 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-IT:START -->
+<tr><td>2026-11-10</td><td><a href="https://devandreacarratta.it/business-time/manutenzione-software-aggiornamenti-dipendenze/">Manutenzione software: perché rimandare gli aggiornamenti può costarti caro</a></td><td>Website</td></tr>
+<tr><td>2026-11-10</td><td><a href="https://devandreacarratta.it/business-time/manutenzione-software-aggiornamenti-dipendenze/">Manutenzione software: perché rimandare gli aggiornamenti può costarti caro</a></td><td>Blog</td></tr>
 <tr><td>2026-11-03</td><td><a href="https://devandreacarratta.it/technical-stories/come-proteggere-file-privati-nel-cloud/">File privati nel cloud: quando privato non significa davvero privato</a></td><td>Website</td></tr>
 <tr><td>2026-11-03</td><td><a href="https://devandreacarratta.it/technical-stories/come-proteggere-file-privati-nel-cloud/">File privati nel cloud: quando privato non significa davvero privato</a></td><td>Blog</td></tr>
-<tr><td>2026-10-30</td><td><a href="https://devandreacarratta.it/technical-stories/terraform-destroy-senza-codice-solo-state/">Ho perso il codice Terraform: come ho distrutto un progetto AWS partendo solo dallo state</a></td><td>Website</td></tr>
-<tr><td>2026-10-30</td><td><a href="https://devandreacarratta.it/technical-stories/terraform-destroy-senza-codice-solo-state/">Ho perso il codice Terraform: come ho distrutto un progetto AWS partendo solo dallo state</a></td><td>Blog</td></tr>
-<tr><td>2026-10-27</td><td><a href="https://devandreacarratta.it/business-time/costo-consulente-software-esperienza-prezzo/">Costo consulente software: andresti mai dal dottore di Homer Simpson?</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
+<tr><td>2026-10-30</td><td><a href="https://devandreacarratta.it/technical-stories/terraform-destroy-senza-codice-solo-state/">Ho perso il codice Terraform: come ho distrutto un progetto AWS partendo solo dallo state</a></td><td>Website</td></tr><!-- POSTS-IT:END -->
 </table>
 
 </details>
