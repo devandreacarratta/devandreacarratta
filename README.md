@@ -47,12 +47,12 @@ Usually I get called when the software that worked fine yesterday starts struggl
 <table>
 <tr><th>Date</th><th>Post</th><th>Source</th></tr>
 <!-- POSTS-EN:START -->
+<tr><td>2026-11-20</td><td><a href="https://devandreacarratta.it/en/technical-stories/aws-transfer-family-vs-ftp-cost/">AWS Transfer Family vs FTP: the FTP server was cheap, waiting six days wasn&#39;t</a></td><td>Website</td></tr>
+<tr><td>2026-11-20</td><td><a href="https://devandreacarratta.it/en/technical-stories/aws-transfer-family-vs-ftp-cost/">AWS Transfer Family vs FTP: the FTP server was cheap, waiting six days wasn&#39;t</a></td><td>Blog</td></tr>
 <tr><td>2026-11-13</td><td><a href="https://devandreacarratta.it/en/technical-stories/dapper-constructor-error-debugging-assumption/">Dapper constructor error: the fix worked, my explanation was wrong</a></td><td>Website</td></tr>
 <tr><td>2026-11-13</td><td><a href="https://devandreacarratta.it/en/technical-stories/dapper-constructor-error-debugging-assumption/">Dapper constructor error: the fix worked, my explanation was wrong</a></td><td>Blog</td></tr>
 <tr><td>2026-11-06</td><td><a href="https://devandreacarratta.it/en/technical-stories/creating-ec2-instance-was-only-the-beginning/">Terraform EC2: creating the instance was only the beginning</a></td><td>Website</td></tr>
-<tr><td>2026-11-06</td><td><a href="https://devandreacarratta.it/en/technical-stories/creating-ec2-instance-was-only-the-beginning/">Terraform EC2: creating the instance was only the beginning</a></td><td>Blog</td></tr>
-<tr><td>2026-10-24</td><td><a href="https://devandreacarratta.it/en/behind-the-code/bug-could-not-solve-at-my-desk-running/">The bug I couldn&#39;t solve at my desk</a></td><td>Website</td></tr>
-<tr><td>2026-10-24</td><td><a href="https://devandreacarratta.it/en/behind-the-code/bug-could-not-solve-at-my-desk-running/">The bug I couldn&#39;t solve at my desk</a></td><td>Blog</td></tr><!-- POSTS-EN:END -->
+<tr><td>2026-11-06</td><td><a href="https://devandreacarratta.it/en/technical-stories/creating-ec2-instance-was-only-the-beginning/">Terraform EC2: creating the instance was only the beginning</a></td><td>Blog</td></tr><!-- POSTS-EN:END -->
 </table>
 
 <details>
